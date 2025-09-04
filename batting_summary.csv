@@ -1,0 +1,517 @@
+batsman,runs,balls,outs,fours,sixes,strike_rate,average,innings,dob,batting_hand,bowling_skill,country
+A Ashish Reddy,280,193,15.0,16,15,145.0777202072539,18.666666666666668,23,1991-02-24,Right_Hand,Right-arm medium,India
+A Chandila,4,7,0.0,0,0,57.14285714285714,,2,1983-12-05,Right_Hand,Right-arm offbreak,India
+A Chopra,53,71,6.0,7,0,74.64788732394366,8.833333333333334,6,1977-09-19,Right_Hand,Right-arm offbreak,India
+A Choudhary,25,20,1.0,1,1,125.0,25.0,3,,Right_hand,Left-arm fast-medium,
+A Dananjaya,4,5,0.0,0,0,80.0,,1,,Right_Hand,Right-arm offbreak,
+A Flintoff,62,53,2.0,5,2,116.98113207547169,31.0,3,1977-12-06,Right_Hand,Right-arm fast-medium,England
+A Hales,152,117,6.0,13,6,129.9145299145299,25.333333333333332,6,,Right_hand,,
+A Joseph,15,13,0.0,2,0,115.38461538461537,,1,,Right_Hand,Right-arm fast,
+A Kumble,35,47,3.0,3,0,74.46808510638297,11.666666666666666,15,1970-10-17,Right_Hand,Legbreak googly,India
+A Mishra,368,387,31.0,30,5,95.09043927648578,11.870967741935484,54,1982-11-24,Right_Hand,Legbreak,India
+A Mithun,34,26,5.0,4,1,130.76923076923077,6.8,6,1989-10-25,Right_Hand,Right-arm medium,India
+A Mukund,19,22,2.0,1,0,86.36363636363636,9.5,2,1990-01-06,Right_Hand,Legbreak googly,India
+A Nehra,41,60,7.0,3,1,68.33333333333333,5.857142857142857,17,1979-04-29,Right_Hand,Left-arm medium-fast,India
+A Singh,2,9,4.0,0,0,22.22222222222222,0.5,5,1981-06-21,Right_Hand,Right-arm medium-fast,India
+A Symonds,974,745,27.0,74,41,130.73825503355704,36.074074074074076,36,1975-06-09,Right_Hand,Right-arm offbreak,Australia
+A Turner,4,10,3.0,0,0,40.0,1.3333333333333333,4,,Right_Hand,,
+A Uniyal,4,7,1.0,0,0,57.14285714285714,4.0,2,1981-11-21,Right_Hand,Left-arm medium,India
+A Zampa,5,8,2.0,1,0,62.5,2.5,2,1992-03-31,Right_Hand,Legbreak googly,Australia
+AA Bilakhia,69,84,5.0,5,0,82.14285714285714,13.8,7,1986-05-31,Right_Hand,Right-arm medium,India
+AA Chavan,12,11,2.0,2,0,109.09090909090908,6.0,3,1985-10-28,Right_Hand,Slow left-arm orthodox,India
+AA Jhunjhunwala,217,209,13.0,19,5,103.82775119617224,16.692307692307693,15,1982-12-01,Right_Hand,Right-arm offbreak,India
+AA Noffke,9,10,1.0,1,0,90.0,9.0,1,1977-04-30,Right_Hand,Right-arm fast-medium,Australia
+AB Agarkar,179,151,10.0,13,5,118.5430463576159,17.9,18,1977-12-04,Right_Hand,Right-arm fast,India
+AB Barath,42,42,2.0,5,1,100.0,21.0,3,1990-04-14,Left_Hand,Right-arm offbreak,India
+AB Dinda,26,48,10.0,2,0,54.166666666666664,2.6,16,1984-03-25,Right_Hand,Right-arm medium-fast,India
+AB McDonald,123,100,5.0,9,4,123.0,24.6,9,1981-06-05,Right_Hand,Right-arm fast-medium,Australia
+AB de Villiers,4428,2903,110.0,357,214,152.53186358939027,40.25454545454546,142,1984-02-17,Right_Hand,Right-arm medium,South Africa
+AC Blizzard,120,90,7.0,21,2,133.33333333333331,17.142857142857142,7,1984-06-27,Left_Hand,Left-arm medium,Australia
+AC Gilchrist,2069,1483,76.0,239,92,139.51449763991909,27.223684210526315,80,1971-11-14,Left_Hand,Right-arm offbreak,Australia
+AC Thomas,20,19,2.0,1,1,105.26315789473684,10.0,4,1977-02-09,Right_Hand,Right-arm fast-medium,England
+AC Voges,181,143,4.0,15,3,126.57342657342659,45.25,7,1979-10-04,Right_Hand,Slow left-arm orthodox,Australia
+AD Mascarenhas,79,78,9.0,5,1,101.28205128205127,8.777777777777779,11,1977-10-30,Right_Hand,Right-arm fast-medium,England
+AD Mathews,724,573,31.0,44,29,126.35253054101221,23.35483870967742,41,1987-06-02,Right_Hand,Right-arm fast-medium,Sri Lanka
+AD Nath,91,98,10.0,7,2,92.85714285714286,9.1,10,1993-05-10,Right_Hand,Right-arm medium-fast,India
+AD Russell,1445,750,42.0,98,119,192.66666666666669,34.404761904761905,52,1988-04-29,Right_Hand,Right-arm fast,West Indies
+AF Milne,7,12,2.0,0,0,58.333333333333336,3.5,3,1992-04-13,Right_Hand,Right-arm fast,New Zealand
+AG Murtaza,10,14,1.0,1,0,71.42857142857143,10.0,3,1990-01-01,Left_Hand,Slow left-arm orthodox,India
+AG Paunikar,49,55,5.0,9,0,89.0909090909091,9.8,5,1988-04-18,Right_Hand,,India
+AJ Finch,1744,1326,67.0,176,67,131.5233785822021,26.029850746268657,73,1986-11-17,Right_Hand,Slow left-arm orthodox,Australia
+AJ Tye,94,69,8.0,7,4,136.23188405797103,11.75,12,,Right_hand,Right-arm fast-medium,
+AL Menaria,401,354,21.0,24,18,113.27683615819208,19.095238095238095,23,1990-10-29,Left_Hand,Slow left-arm orthodox,India
+AM Nayar,672,573,38.0,55,20,117.27748691099475,17.68421052631579,50,1983-10-08,Left_Hand,Right-arm medium,India
+AM Rahane,3850,3132,116.0,405,74,122.92464878671777,33.189655172413794,132,1988-06-06,Right_Hand,Right-arm medium,India
+AN Ahmed,36,26,1.0,4,1,138.46153846153845,36.0,6,1988-11-05,Right_Hand,Right-arm medium-fast,India
+AN Ghosh,7,8,2.0,1,0,87.5,3.5,2,1986-10-19,Right_Hand,Right-arm medium,India
+AP Dole,34,22,2.0,3,1,154.54545454545453,17.0,2,1987-10-09,Right_Hand,Right-arm medium-fast,India
+AP Majumdar,87,76,4.0,7,2,114.4736842105263,21.75,4,1984-04-30,Right_Hand,Legbreak googly,India
+AP Tare,339,272,24.0,40,11,124.63235294117648,14.125,27,1987-11-07,Right_Hand,,India
+AR Bawne,12,12,0.0,1,0,100.0,,1,,Right_Hand,,
+AR Patel,806,629,42.0,47,35,128.13990461049286,19.19047619047619,62,1994-01-20,Left_Hand,Slow left-arm orthodox,India
+AS Rajpoot,18,31,4.0,2,0,58.06451612903226,4.5,5,1993-12-04,Right_Hand,Right-arm medium,India
+AS Raut,194,167,9.0,13,7,116.1676646706587,21.555555555555557,16,1987-03-03,Right_Hand,Legbreak googly,India
+AS Yadav,1011,749,32.0,113,28,134.9799732977303,31.59375,35,,Right_hand,,
+AT Rayudu,3326,2609,115.0,278,120,127.48179379072442,28.921739130434784,138,1985-09-23,Right_Hand,Right-arm offbreak,India
+AUK Pathan,39,23,5.0,5,2,169.56521739130434,7.8,7,1984-06-17,Right_Hand,Right-arm medium,India
+Abdur Razzak,0,2,0.0,0,0,0.0,,1,1982-06-15,Left_Hand,Slow left-arm orthodox,Bangladesh
+Anirudh Singh,63,66,4.0,6,1,95.45454545454545,15.75,4,1980-08-02,Left_Hand,Right-arm medium,India
+Ankit Sharma,164,109,10.0,11,9,150.45871559633028,16.4,16,1991-04-20,Left_Hand,Slow left-arm orthodox,India
+Ankit Soni,7,9,2.0,0,1,77.77777777777779,3.5,3,,Right_hand,Legbreak,
+Anureet Singh,37,47,4.0,2,1,78.72340425531915,9.25,8,1988-03-02,Right_Hand,Right-arm medium,India
+Avesh Khan,4,3,0.0,1,0,133.33333333333331,,1,,Right_Hand,Right-arm fast-medium,
+Azhar Mahmood,388,303,19.0,39,13,128.05280528052805,20.42105263157895,21,1975-02-28,Right_Hand,Right-arm fast-medium,Pakistan
+B Akhil,76,55,6.0,5,5,138.1818181818182,12.666666666666666,11,1977-10-07,Right_Hand,Right-arm medium-fast,India
+B Chipli,280,250,15.0,28,7,112.00000000000001,18.666666666666668,21,1983-01-27,Right_Hand,Right-arm medium,India
+B Kumar,190,192,24.0,18,3,98.95833333333334,7.916666666666667,41,1990-02-05,Right_Hand,Right-arm medium,India
+B Laughlin,5,13,2.0,0,0,38.46153846153847,2.5,4,1982-10-03,Right_Hand,Right-arm fast-medium,Australia
+B Lee,124,96,10.0,8,8,129.16666666666669,12.4,19,1976-11-08,Right_Hand,Right-arm fast,Australia
+B Stanlake,5,2,0.0,1,0,250.0,,1,,Right_Hand,Right-arm fast,
+B Sumanth,35,37,1.0,3,0,94.5945945945946,35.0,4,1988-05-10,Right_Hand,Right-arm medium-fast,India
+BA Bhatt,6,7,1.0,0,1,85.71428571428571,6.0,2,1990-05-13,Left_Hand,Slow left-arm orthodox,India
+BA Stokes,647,478,28.0,43,25,135.35564853556485,23.107142857142858,32,,Left_Hand,Right-arm fast-medium,
+BAW Mendis,3,6,2.0,0,0,50.0,1.5,3,1985-03-11,Right_Hand,Right-arm offbreak,Sri Lanka
+BB McCullum,2893,2176,104.0,293,129,132.95036764705884,27.817307692307693,109,1981-09-27,Right_Hand,Right-arm medium,New Zealand
+BB Samantray,125,113,5.0,13,2,110.61946902654867,25.0,8,1988-12-14,Right_Hand,,India
+BB Sran,11,13,1.0,0,0,84.61538461538461,11.0,7,1992-12-10,Left_Hand,Left-arm medium,India
+BCJ Cutting,240,141,11.0,15,19,170.2127659574468,21.818181818181817,17,1987-01-30,Right_Hand,Right-arm fast-medium,Australia
+BE Hendricks,1,3,1.0,0,0,33.33333333333333,1.0,2,1990-06-08,Left_Hand,Left-arm fast-medium,South Africa
+BJ Haddin,18,11,1.0,2,1,163.63636363636365,18.0,1,1977-10-23,Right_Hand,,Australia
+BJ Hodge,1400,1112,42.0,122,43,125.89928057553956,33.333333333333336,63,1974-12-29,Right_Hand,Right-arm offbreak,Australia
+BJ Rohrer,193,141,7.0,21,5,136.8794326241135,27.571428571428573,8,1981-03-26,Left_Hand,Right-arm offbreak,Australia
+BMAJ Mendis,23,27,3.0,0,0,85.18518518518519,7.666666666666667,3,1983-01-15,Left_Hand,Right-arm offbreak,Sri Lanka
+BR Dunk,40,35,3.0,7,0,114.28571428571428,13.333333333333334,3,1987-03-11,Left_Hand,Right-arm fast,Australia
+Basil Thampi,32,35,1.0,1,1,91.42857142857143,32.0,7,,Right_hand,Right-arm fast,
+Bipul Sharma,187,123,8.0,11,9,152.03252032520325,23.375,17,1983-09-28,Left_Hand,Slow left-arm orthodox,India
+C Ingram,187,154,10.0,20,5,121.42857142857142,18.7,12,,Left_Hand,Right-arm fast-medium,
+C Madan,15,18,1.0,3,0,83.33333333333334,15.0,1,1982-10-15,Right_Hand,,India
+C Munro,180,141,12.0,19,8,127.65957446808511,15.0,11,1987-03-11,Left_Hand,Right-arm medium-fast,New Zealand
+C Nanda,0,1,1.0,0,0,0.0,0.0,1,1979-03-29,Right_Hand,Legbreak,India
+C de Grandhomme,313,224,15.0,18,17,139.73214285714286,20.866666666666667,21,,Right_hand,Legbreak,
+CA Ingram,21,25,2.0,2,0,84.0,10.5,3,1985-07-03,Left_Hand,Legbreak,South Africa
+CA Lynn,1308,907,38.0,128,62,144.2116868798236,34.421052631578945,41,1990-04-10,Right_Hand,Slow left-arm orthodox,Australia
+CA Pujara,390,390,19.0,50,4,100.0,20.526315789473685,22,1988-01-25,Right_Hand,Legbreak,India
+CH Gayle,4560,2966,109.0,376,327,153.74241402562373,41.8348623853211,124,1979-09-21,Left_Hand,Right-arm offbreak,West Indies
+CH Morris,520,327,19.0,37,27,159.02140672782875,27.36842105263158,37,1987-04-30,Right_Hand,Right-arm fast-medium,South Africa
+CJ Anderson,538,421,22.0,40,31,127.79097387173397,24.454545454545453,29,1990-12-13,Left_Hand,Left-arm medium-fast,New Zealand
+CJ Ferguson,98,117,6.0,9,0,83.76068376068376,16.333333333333332,8,1984-11-21,Right_Hand,Right-arm medium,Australia
+CJ Jordan,3,5,2.0,0,0,60.0,1.5,2,1988-10-04,Right_Hand,Right-arm fast-medium,England
+CJ McKay,8,15,1.0,0,0,53.333333333333336,8.0,1,1983-02-20,Right_Hand,Right-arm fast-medium,Australia
+CK Kapugedera,16,22,3.0,0,0,72.72727272727273,5.333333333333333,3,1987-02-24,Right_Hand,Right-arm medium,Sri Lanka
+CK Langeveldt,8,9,2.0,0,1,88.88888888888889,4.0,2,1974-12-17,Right_Hand,Right-arm fast-medium,England
+CL White,971,757,36.0,76,38,128.26948480845442,26.97222222222222,45,1983-08-18,Right_Hand,Legbreak googly,Australia
+CM Gautam,169,149,10.0,17,6,113.42281879194631,16.9,13,1986-03-08,Right_Hand,,India
+CR Brathwaite,188,110,13.0,10,16,170.9090909090909,14.461538461538462,14,1988-07-18,Right_Hand,Right-arm fast-medium,West Indies
+CR Woakes,63,66,6.0,5,2,95.45454545454545,10.5,11,,Right_hand,Right-arm fast-medium,
+CRD Fernando,4,3,0.0,0,0,133.33333333333331,,2,1979-07-19,Right_Hand,Right-arm fast-medium,Sri Lanka
+D Kalyankrishna,3,8,1.0,0,0,37.5,3.0,1,1983-12-16,Right_Hand,Right-arm medium-fast,India
+D Salunkhe,33,24,2.0,5,0,137.5,16.5,3,1982-11-12,Right_Hand,Legbreak,India
+D Shorey,16,17,2.0,0,1,94.11764705882352,8.0,2,,Right_hand,,
+D Short,123,99,7.0,11,5,124.24242424242425,17.571428571428573,7,,Left_Hand,Slow left-arm orthodox,
+D Wiese,127,89,4.0,12,4,142.69662921348313,31.75,8,1985-05-18,Right_Hand,Right-arm medium-fast,South Africa
+D du Preez,10,13,1.0,0,0,76.92307692307693,10.0,1,1981-11-08,Right_Hand,Right-arm fast-medium,South Africa
+DA Miller,1875,1330,55.0,127,87,140.97744360902254,34.09090909090909,77,1989-06-10,Left_Hand,Right-arm offbreak,South Africa
+DA Warner,4741,3290,110.0,459,181,144.10334346504558,43.1,126,1986-10-27,Left_Hand,Legbreak,Australia
+DAJ Bracewell,12,9,0.0,1,0,133.33333333333331,,1,1990-09-28,Right_Hand,Right-arm fast-medium,New Zealand
+DB Das,304,260,14.0,23,16,116.92307692307693,21.714285714285715,22,1986-09-22,Right_Hand,Legbreak googly,India
+DB Ravi Teja,375,315,19.0,35,9,119.04761904761905,19.736842105263158,25,1987-09-05,Right_Hand,Legbreak googly,India
+DE Bollinger,21,22,1.0,1,1,95.45454545454545,21.0,4,1981-07-24,Left_Hand,Left-arm fast-medium,Australia
+DH Yagnik,170,133,10.0,23,2,127.81954887218046,17.0,17,1983-06-22,Left_Hand,,India
+DJ Bravo,1498,1148,64.0,118,60,130.4878048780488,23.40625,99,1983-10-07,Right_Hand,Right-arm medium-fast,West Indies
+DJ Harris,111,101,4.0,11,5,109.9009900990099,27.75,4,1979-12-31,Right_Hand,Right-arm medium,Australia
+DJ Hooda,535,411,35.0,27,24,130.17031630170317,15.285714285714286,45,1995-04-19,Right_Hand,Right-arm offbreak,India
+DJ Hussey,1322,1070,49.0,90,60,123.55140186915887,26.979591836734695,61,1977-07-15,Right_Hand,Right-arm offbreak,Australia
+DJ Jacobs,92,98,7.0,10,4,93.87755102040816,13.142857142857142,7,1982-11-04,Right_Hand,Right-arm medium,South Africa
+DJ Muthuswami,1,3,1.0,0,0,33.33333333333333,1.0,1,1981-03-09,Right_Hand,Right-arm medium,India
+DJ Thornely,39,53,3.0,2,2,73.58490566037736,13.0,4,1978-10-01,Right_Hand,Right-arm medium,Australia
+DJG Sammy,295,241,15.0,15,18,122.40663900414938,19.666666666666668,20,1983-12-20,Right_Hand,Right-arm medium-fast,West Indies
+DL Chahar,73,44,6.0,2,6,165.9090909090909,12.166666666666666,7,1992-08-07,Right_Hand,Right-arm medium,India
+DL Vettori,121,112,8.0,11,2,108.03571428571428,15.125,16,1979-01-27,Left_Hand,Slow left-arm orthodox,New Zealand
+DM Bravo,6,5,0.0,1,0,120.0,,1,,Left_Hand,,
+DNT Zoysa,11,9,1.0,1,0,122.22222222222223,11.0,2,1978-05-13,Left_Hand,Left-arm fast-medium,Sri Lanka
+DP Nannes,4,13,1.0,0,0,30.76923076923077,4.0,2,1976-05-16,Right_Hand,Left-arm fast,Australia
+DP Vijaykumar,1,1,0.0,0,0,100.0,,1,1986-10-20,Right_Hand,Right-arm medium,India
+DPMD Jayawardene,1808,1462,64.0,200,40,123.66621067031464,28.25,78,1977-05-27,Right_Hand,Right-arm medium,Sri Lanka
+DR Martyn,19,24,1.0,1,0,79.16666666666666,19.0,1,1971-10-21,Right_Hand,Right-arm medium,Australia
+DR Smith,2385,1755,84.0,245,117,135.8974358974359,28.392857142857142,88,1983-04-12,Right_Hand,Right-arm medium,West Indies
+DS Kulkarni,101,106,9.0,7,2,95.28301886792453,11.222222222222221,19,1988-12-10,Right_Hand,Right-arm medium,India
+DS Lehmann,18,18,2.0,3,0,100.0,9.0,2,1970-02-05,Left_Hand,Slow left-arm orthodox,Australia
+DT Christian,448,371,25.0,22,19,120.75471698113208,17.92,34,1983-05-04,Right_Hand,Right-arm fast-medium,Australia
+DT Patil,13,13,2.0,1,0,100.0,6.5,2,1984-12-06,Right_Hand,,India
+DW Steyn,166,158,22.0,14,3,105.0632911392405,7.545454545454546,32,1983-06-27,Right_Hand,Right-arm fast,South Africa
+E Lewis,464,328,16.0,38,26,141.46341463414635,29.0,16,,Left_Hand,,
+EJG Morgan,854,705,40.0,72,34,121.13475177304964,21.35,45,1986-09-10,Left_Hand,Right-arm medium,England
+ER Dwivedi,24,14,2.0,2,2,171.42857142857142,12.0,2,1988-07-22,Right_Hand,,India
+F Behardien,14,13,2.0,2,0,107.6923076923077,7.0,3,1983-10-09,Right_Hand,Right-arm fast-medium,South Africa
+F du Plessis,1874,1460,59.0,164,59,128.35616438356163,31.76271186440678,64,1984-07-13,Right_Hand,Legbreak,South Africa
+FH Edwards,4,5,1.0,0,0,80.0,4.0,2,1982-02-06,Right_Hand,Right-arm fast,West Indies
+FY Fazal,183,172,10.0,22,1,106.3953488372093,18.3,11,1985-09-07,Left_Hand,Right-arm medium,India
+G Gambhir,4223,3394,136.0,492,59,124.42545668827343,31.051470588235293,151,1981-10-14,Left_Hand,Legbreak,India
+GB Hogg,22,22,3.0,1,0,100.0,7.333333333333333,4,1971-02-06,Left_Hand,Slow left-arm chinaman,Australia
+GC Smith,739,664,26.0,94,9,111.29518072289157,28.423076923076923,29,1981-02-01,Left_Hand,Right-arm offbreak,South Africa
+GD McGrath,4,5,1.0,1,0,80.0,4.0,2,1970-02-09,Right_Hand,Right-arm fast-medium,Australia
+GH Vihari,280,311,18.0,23,1,90.03215434083602,15.555555555555555,21,1993-10-13,Right_Hand,Right-arm offbreak,India
+GJ Bailey,663,541,27.0,59,19,122.55083179297597,24.555555555555557,36,1982-09-07,Right_Hand,Right-arm medium,Australia
+GJ Maxwell,1403,864,61.0,110,91,162.38425925925927,23.0,67,1988-10-14,Right_Hand,Right-arm offbreak,Australia
+GR Napier,15,16,1.0,1,0,93.75,15.0,1,1980-01-06,Right_Hand,Right-arm medium,England
+Gurkeerat Singh,446,342,24.0,47,11,130.4093567251462,18.583333333333332,27,1990-06-29,Right_Hand,Right-arm offbreak,India
+H Brar,22,12,0.0,2,1,183.33333333333331,,1,,Left_Hand,Slow left-arm orthodox,
+H Das,2,5,1.0,0,0,40.0,2.0,1,1986-12-10,Right_Hand,,India
+H Gurney,1,5,0.0,0,0,20.0,,1,,Right_Hand,Right-arm fast-medium,
+H Klaasen,68,56,5.0,5,1,121.42857142857142,13.6,6,,Right_hand,,
+H Vihari,4,8,2.0,0,0,50.0,2.0,2,,Right_hand,Right-arm offbreak,
+H Viljoen,6,7,2.0,0,0,85.71428571428571,3.0,3,,Right_hand,Right-arm fast,
+HH Gibbs,886,805,32.0,83,31,110.06211180124224,27.6875,36,1974-02-23,Right_Hand,Right-arm bowler,South Africa
+HH Pandya,1118,688,37.0,73,69,162.5,30.216216216216218,61,1993-10-11,Right_Hand,Right-arm medium-fast,India
+HM Amla,577,406,13.0,60,21,142.11822660098522,44.38461538461539,16,1983-03-31,Right_Hand,Right-arm offbreak,South Africa
+HV Patel,108,69,11.0,3,9,156.52173913043478,9.818181818181818,15,1990-11-23,Right_Hand,Right-arm medium,India
+Harbhajan Singh,834,595,55.0,79,42,140.16806722689074,15.163636363636364,86,1980-07-03,Right_Hand,Right-arm offbreak,India
+Harmeet Singh,18,12,4.0,3,0,150.0,4.5,4,1992-09-07,Left_Hand,Slow left-arm orthodox,India
+Harpreet Singh,20,26,2.0,0,0,76.92307692307693,10.0,3,1991-08-11,Left_Hand,Right-arm medium,India
+I Malhotra,7,4,0.0,1,0,175.0,,1,1984-05-23,Right_Hand,Right-arm medium-fast,India
+I Sharma,55,61,6.0,4,2,90.1639344262295,9.166666666666666,18,1988-09-02,Right_Hand,Right-arm fast-medium,India
+I Sodhi,10,17,2.0,0,0,58.82352941176471,5.0,2,,Right_hand,Legbreak googly,
+IC Pandey,0,2,1.0,0,0,0.0,0.0,1,1989-08-15,Right_Hand,Right-arm medium,India
+IK Pathan,1150,947,53.0,88,38,121.43611404435057,21.69811320754717,82,1984-10-27,Left_Hand,Left-arm medium-fast,India
+IR Jaggi,76,97,5.0,6,0,78.35051546391753,15.2,7,1989-01-27,Right_Hand,Legbreak googly,India
+Imran Tahir,20,27,4.0,3,0,74.07407407407408,5.0,7,1979-03-27,Right_Hand,Legbreak googly,India
+Iqbal Abdulla,88,82,2.0,9,1,107.31707317073172,44.0,13,1989-12-02,Left_Hand,Slow left-arm orthodox,India
+Ishan Kishan,711,530,33.0,66,34,134.1509433962264,21.545454545454547,33,1998-07-18,Left_Hand,,India
+J Archer,85,59,7.0,6,4,144.0677966101695,12.142857142857142,11,,Right_hand,Right-arm fast,
+J Arunkumar,23,23,3.0,5,0,100.0,7.666666666666667,3,1975-01-18,Right_Hand,Right-arm offbreak,India
+J Bairstow,468,282,8.0,50,18,165.95744680851064,58.5,10,,Right_hand,,
+J Botha,409,358,20.0,39,5,114.24581005586592,20.45,28,1982-05-02,Right_Hand,Right-arm offbreak,South Africa
+J Denly,0,1,1.0,0,0,0.0,0.0,1,,Right_hand,,
+J Searles,8,6,1.0,0,1,133.33333333333331,8.0,2,,Right_hand,Right-arm fast-medium,
+J Suchith,54,47,2.0,4,2,114.89361702127661,27.0,6,1994-01-16,Left_Hand,Slow left-arm orthodox,India
+J Syed Mohammad,29,26,2.0,4,0,111.53846153846155,14.5,5,1983-06-03,Left_Hand,Slow left-arm orthodox,India
+J Theron,10,12,2.0,1,0,83.33333333333334,5.0,4,1985-07-24,Right_Hand,Right-arm medium-fast,South Africa
+J Yadav,6,10,2.0,0,0,60.0,3.0,2,1990-01-22,Right_Hand,Right-arm offbreak,India
+JA Morkel,975,683,40.0,61,55,142.75256222547583,24.375,67,1981-06-10,Left_Hand,Right-arm medium-fast,South Africa
+JC Buttler,1431,920,40.0,143,61,155.54347826086956,35.775,45,1990-09-08,Right_Hand,,England
+JD Ryder,604,455,28.0,69,19,132.74725274725273,21.571428571428573,29,1984-08-06,Left_Hand,Right-arm medium,New Zealand
+JD Unadkat,55,54,6.0,6,1,101.85185185185186,9.166666666666666,12,1991-10-18,Right_Hand,Left-arm medium,India
+JDP Oram,106,107,8.0,6,5,99.06542056074767,13.25,11,1978-07-28,Left_Hand,Right-arm fast-medium,New Zealand
+JDS Neesham,42,46,3.0,3,1,91.30434782608695,14.0,3,1990-09-17,Left_Hand,Right-arm medium,New Zealand
+JE Taylor,3,3,1.0,0,0,100.0,3.0,2,1984-06-22,Right_Hand,Right-arm fast,New Zealand
+JEC Franklin,327,300,11.0,25,9,109.00000000000001,29.727272727272727,16,1980-11-07,Left_Hand,Left-arm medium,New Zealand
+JH Kallis,2427,2213,85.0,255,44,109.6701310438319,28.55294117647059,95,1975-10-16,Right_Hand,Right-arm fast-medium,South Africa
+JJ Bumrah,37,37,4.0,2,1,100.0,9.25,10,1993-12-06,Right_Hand,Right-arm medium,India
+JJ Roy,186,135,5.0,18,8,137.77777777777777,37.2,8,,Right_hand,,
+JJ van der Wath,18,16,2.0,1,1,112.5,9.0,3,1978-01-10,Right_Hand,Right-arm medium-fast,South Africa
+JM Kemp,26,24,2.0,1,1,108.33333333333333,13.0,2,1977-10-02,Right_Hand,Right-arm fast-medium,South Africa
+JO Holder,38,31,5.0,4,2,122.58064516129032,7.6,5,1991-11-05,Right_Hand,Right-arm medium-fast,West Indies
+JP Duminy,2041,1631,51.0,126,79,125.13795217657879,40.01960784313726,75,1984-04-14,Left_Hand,Right-arm offbreak,South Africa
+JP Faulkner,527,385,26.0,36,23,136.88311688311688,20.26923076923077,45,1990-04-29,Right_Hand,Left-arm fast-medium,Australia
+JR Hopes,417,305,16.0,49,11,136.72131147540983,26.0625,19,1978-10-24,Right_Hand,Right-arm medium,Australia
+Jaskaran Singh,8,11,1.0,0,0,72.72727272727273,8.0,4,1989-09-04,Right_Hand,Right-arm medium,India
+Joginder Sharma,36,30,4.0,1,2,120.0,9.0,5,1983-10-23,Right_Hand,Right-arm fast-medium,India
+K Ahmed,0,1,1.0,0,0,0.0,0.0,1,,Right_hand,Left-arm fast-medium,
+K Goel,218,231,15.0,17,9,94.37229437229438,14.533333333333333,16,1986-12-24,Left_Hand,Right-arm offbreak,India
+K Gowtham,148,83,12.0,10,10,178.3132530120482,12.333333333333334,17,,Right_hand,Right-arm offbreak,
+K Paul,22,24,5.0,1,1,91.66666666666666,4.4,5,,Right_hand,Right-arm fast-medium,
+K Rabada,70,79,6.0,5,2,88.60759493670885,11.666666666666666,7,,Left_Hand,Right-arm fast,
+K Upadhyay,12,9,0.0,0,1,133.33333333333331,,2,1986-06-18,Right_Hand,Right-arm medium,India
+KA Pollard,2784,1869,97.0,182,175,148.9566613162119,28.701030927835053,132,1987-05-12,Right_Hand,Right-arm medium-fast,West Indies
+KAJ Roach,10,9,1.0,1,0,111.11111111111111,10.0,1,1988-06-30,Right_Hand,Right-arm fast,West Indies
+KB Arun Karthik,51,51,5.0,4,1,100.0,10.2,8,1986-02-15,Right_Hand,Legbreak googly,India
+KC Cariappa,24,21,3.0,0,2,114.28571428571428,8.0,5,1994-04-13,Right_Hand,Legbreak,India
+KC Sangakkara,1687,1385,65.0,195,27,121.80505415162455,25.953846153846154,68,1977-10-27,Left_Hand,Right-arm offbreak,Sri Lanka
+KD Karthik,3688,2810,135.0,358,101,131.24555160142347,27.31851851851852,162,1985-06-01,Right_Hand,,India
+KH Pandya,915,610,35.0,87,35,150.0,26.142857142857142,46,1991-03-24,Left_Hand,Slow left-arm orthodox,India
+KJ Abbott,13,8,1.0,0,1,162.5,13.0,3,1987-06-18,Right_Hand,Right-arm fast-medium,South Africa
+KK Cooper,116,67,9.0,9,8,173.13432835820893,12.88888888888889,12,1989-02-16,Right_Hand,Right-arm medium,West Indies
+KK Nair,1470,1137,59.0,158,39,129.28759894459102,24.915254237288135,63,1991-12-06,Right_Hand,Right-arm offbreak,India
+KL Rahul,2013,1427,47.0,178,81,141.06517168885776,42.829787234042556,58,1992-04-18,Right_Hand,,India
+KM Jadhav,1091,842,47.0,92,38,129.57244655581948,23.21276595744681,70,1985-03-26,Right_Hand,Right-arm offbreak,India
+KMDN Kulasekara,5,3,0.0,1,0,166.66666666666669,,1,1982-07-22,Right_Hand,Right-arm fast-medium,Sri Lanka
+KP Appanna,2,4,1.0,0,0,50.0,2.0,3,1988-12-20,Right_Hand,Slow left-arm orthodox,India
+KP Pietersen,1001,742,28.0,91,40,134.9056603773585,35.75,36,1980-06-27,Right_Hand,Right-arm offbreak,South Africa
+KS Williamson,1319,961,34.0,111,44,137.25286160249738,38.794117647058826,41,1990-08-08,Right_Hand,Right-arm offbreak,New Zealand
+KV Sharma,317,274,21.0,18,14,115.69343065693431,15.095238095238095,34,1987-10-23,Left_Hand,Legbreak googly,India
+KW Richardson,36,39,3.0,2,1,92.3076923076923,12.0,4,1991-02-12,Right_Hand,Right-arm fast-medium,Australia
+Kamran Akmal,128,77,5.0,13,8,166.23376623376623,25.6,6,1982-01-13,Right_Hand,,Pakistan
+Kamran Khan,3,5,1.0,0,0,60.0,3.0,1,1991-03-10,Left_Hand,Left-arm medium-fast,India
+Karanveer Singh,12,17,1.0,1,0,70.58823529411765,12.0,4,1987-11-08,Right_Hand,Legbreak googly,India
+Kuldeep Yadav,46,54,5.0,4,0,85.18518518518519,9.2,8,1994-12-14,Left_Hand,Slow left-arm chinaman,India
+L Ablish,0,2,0.0,0,0,0.0,,1,1982-12-03,Right_Hand,Right-arm medium-fast,India
+L Balaji,36,49,8.0,2,1,73.46938775510205,4.5,13,1981-09-27,Right_Hand,Right-arm medium-fast,India
+L Livingstone,72,48,3.0,6,5,150.0,24.0,4,,Right_hand,Right-arm offbreak,
+L Plunkett,1,3,1.0,0,0,33.33333333333333,1.0,2,,Right_hand,Right-arm fast,
+L Ronchi,34,34,5.0,6,1,100.0,6.8,5,1981-04-23,Right_Hand,Right-arm fast,Australia
+LA Carseldine,81,66,4.0,11,0,122.72727272727273,20.25,5,1975-11-17,Left_Hand,Legbreak,Australia
+LA Pomersbach,302,243,11.0,25,13,124.27983539094649,27.454545454545453,16,1984-09-28,Left_Hand,Right-arm medium,Australia
+LH Ferguson,1,1,0.0,0,0,100.0,,1,,Right_Hand,Right-arm fast-medium,
+LJ Wright,106,59,5.0,16,3,179.66101694915255,21.2,5,1985-03-07,Right_Hand,Right-arm medium-fast,England
+LMP Simmons,1079,848,27.0,109,44,127.24056603773586,39.96296296296296,29,1985-01-25,Right_Hand,Right-arm medium-fast,West Indies
+LPC Silva,40,26,2.0,5,1,153.84615384615387,20.0,3,1979-12-14,Right_Hand,Legbreak,Sri Lanka
+LR Shukla,405,350,27.0,33,16,115.71428571428572,15.0,33,1981-05-06,Right_Hand,Right-arm medium,India
+LRPL Taylor,1017,818,40.0,66,46,124.3276283618582,25.425,54,1984-03-08,Right_Hand,Right-arm offbreak,New Zealand
+M Ali,311,179,12.0,21,23,173.74301675977654,25.916666666666668,14,,Left_Hand,Right-arm offbreak,
+M Ashwin,4,8,3.0,0,0,50.0,1.3333333333333333,5,1990-09-08,Right_Hand,Legbreak googly,India
+M Kaif,259,249,18.0,22,6,104.01606425702812,14.38888888888889,22,1980-12-01,Right_Hand,Right-arm offbreak,India
+M Kartik,113,107,7.0,7,1,105.60747663551402,16.142857142857142,14,1976-09-11,Left_Hand,Slow left-arm orthodox,India
+M Klinger,73,75,4.0,9,0,97.33333333333334,18.25,4,1980-07-04,Right_Hand,,Australia
+M Lomror,28,24,2.0,3,0,116.66666666666667,14.0,3,,Left_Hand,Slow left-arm orthodox,
+M Manhas,514,470,23.0,43,10,109.36170212765957,22.347826086956523,38,1979-10-12,Right_Hand,Right-arm offbreak,India
+M Markande,31,29,3.0,3,0,106.89655172413792,10.333333333333334,7,,Right_hand,Legbreak googly,
+M Morkel,126,89,11.0,11,5,141.57303370786516,11.454545454545455,20,1984-10-06,Left_Hand,Right-arm fast,South Africa
+M Muralitharan,20,29,6.0,1,0,68.96551724137932,3.3333333333333335,9,1972-04-17,Right_Hand,Right-arm offbreak,Sri Lanka
+M Ntini,11,18,1.0,2,0,61.111111111111114,11.0,2,1977-07-06,Right_Hand,Right-arm fast,South Africa
+M Rawat,55,69,5.0,4,1,79.71014492753623,11.0,11,1985-10-25,Right_Hand,,India
+M Santner,35,22,1.0,0,3,159.0909090909091,35.0,2,,Left_Hand,Slow left-arm orthodox,
+M Ur Rahman,12,11,2.0,2,0,109.09090909090908,6.0,4,,Right_hand,Right-arm offbreak,
+M Vijay,2590,2104,98.0,243,91,123.09885931558935,26.428571428571427,102,1984-04-01,Right_Hand,Right-arm offbreak,India
+M Vohra,1016,767,43.0,97,39,132.46414602346806,23.627906976744185,45,1993-07-18,Right_Hand,Right-arm medium,India
+M Wood,3,3,1.0,0,0,100.0,3.0,1,,Right_hand,Right-arm fast,
+M de Lange,1,2,1.0,0,0,50.0,1.0,1,1990-10-13,Right_Hand,Right-arm fast,South Africa
+MA Agarwal,1276,983,69.0,117,52,129.8067141403866,18.492753623188406,72,1991-02-16,Right_Hand,,India
+MA Khote,24,22,2.0,2,1,109.09090909090908,12.0,3,1980-04-22,Right_Hand,Right-arm medium,India
+MA Starc,96,98,7.0,10,0,97.95918367346938,13.714285714285714,11,1990-01-30,Left_Hand,Left-arm fast,Australia
+MC Henriques,969,753,34.0,87,27,128.68525896414343,28.5,50,1987-02-01,Right_Hand,Right-arm fast-medium,Australia
+MC Juneja,125,128,7.0,11,1,97.65625,17.857142857142858,7,1990-09-12,Right_Hand,Right-arm offbreak,India
+MD Mishra,237,206,16.0,24,8,115.04854368932038,14.8125,17,1984-02-09,Right_Hand,Right-arm offbreak,India
+MDKJ Perera,14,13,2.0,3,0,107.6923076923077,7.0,2,1990-08-17,Left_Hand,,Sri Lanka
+MEK Hussey,1977,1610,51.0,198,52,122.79503105590062,38.76470588235294,58,1975-05-27,Left_Hand,Right-arm medium,Australia
+MF Maharoof,177,123,10.0,12,9,143.90243902439025,17.7,14,1984-09-07,Right_Hand,Right-arm fast-medium,India
+MG Johnson,168,163,13.0,10,7,103.06748466257669,12.923076923076923,28,1981-11-02,Left_Hand,Left-arm fast,Australia
+MJ Clarke,98,94,6.0,12,0,104.25531914893618,16.333333333333332,6,1981-04-02,Right_Hand,Slow left-arm orthodox,Australia
+MJ Guptill,271,196,12.0,24,15,138.26530612244898,22.583333333333332,13,1986-09-30,Right_Hand,Right-arm offbreak,New Zealand
+MJ Lumb,278,191,12.0,45,6,145.5497382198953,23.166666666666668,12,1980-02-12,Left_Hand,Right-arm medium,England
+MJ McClenaghan,91,69,12.0,5,7,131.8840579710145,7.583333333333333,20,1986-06-11,Left_Hand,Left-arm fast-medium,New Zealand
+MK Pandey,2872,2350,97.0,253,76,122.2127659574468,29.608247422680414,119,1989-09-10,Right_Hand,Right-arm medium,India
+MK Tiwary,1697,1444,59.0,156,40,117.5207756232687,28.76271186440678,83,1985-11-14,Right_Hand,Legbreak googly,India
+ML Hayden,1107,799,31.0,121,44,138.54818523153943,35.70967741935484,32,1971-10-29,Left_Hand,Right-arm medium,Australia
+MM Patel,39,41,6.0,5,0,95.1219512195122,6.5,12,1983-07-12,Right_Hand,Right-arm medium-fast,India
+MM Sharma,124,117,15.0,9,4,105.98290598290599,8.266666666666667,25,1988-09-18,Right_Hand,Right-arm medium,India
+MN Samuels,161,172,13.0,9,7,93.6046511627907,12.384615384615385,14,1981-02-05,Right_Hand,Right-arm offbreak,West Indies
+MN van Wyk,167,131,3.0,19,1,127.48091603053436,55.666666666666664,5,1979-03-20,Right_Hand,Slow left-arm orthodox,South Africa
+MP Stoinis,482,363,15.0,34,18,132.78236914600552,32.13333333333333,25,1989-08-16,Right_Hand,Right-arm medium,Australia
+MR Marsh,225,196,12.0,9,14,114.79591836734696,18.75,14,1991-10-20,Right_Hand,Right-arm medium,Australia
+MS Bisla,798,700,38.0,93,23,113.99999999999999,21.0,39,1984-12-27,Right_Hand,,India
+MS Dhoni,4477,3199,105.0,297,207,139.94998437011566,42.63809523809524,170,1981-07-07,Right_Hand,Right-arm medium,India
+MS Gony,99,70,10.0,6,8,141.42857142857144,9.9,15,1984-01-04,Right_Hand,Right-arm medium,India
+MS Wade,22,33,3.0,0,0,66.66666666666666,7.333333333333333,3,1987-12-26,Left_Hand,Right-arm medium,Australia
+MV Boucher,394,307,14.0,32,13,128.33876221498372,28.142857142857142,23,1976-12-03,Right_Hand,Right-arm medium,South Africa
+Mandeep Singh,1547,1226,68.0,161,33,126.18270799347471,22.75,83,1991-12-18,Right_Hand,Right-arm medium,India
+Mashrafe Mortaza,2,2,0.0,0,0,100.0,,1,1983-10-05,Right_Hand,Right-arm fast-medium,Bangladesh
+Misbah-ul-Haq,117,81,7.0,10,6,144.44444444444443,16.714285714285715,8,1974-05-28,Right_Hand,Legbreak,Pakistan
+Mohammad Ashraful,2,10,1.0,0,0,20.0,2.0,1,1984-07-07,Right_Hand,Right-arm offbreak,Bangladesh
+Mohammad Asif,3,6,2.0,0,0,50.0,1.5,2,1982-12-20,Left_Hand,Right-arm fast-medium,Pakistan
+Mohammad Hafeez,64,83,7.0,7,2,77.10843373493977,9.142857142857142,8,1980-10-17,Right_Hand,Right-arm offbreak,Pakistan
+Mohammad Nabi,146,91,9.0,11,7,160.43956043956044,16.22222222222222,10,,Right_hand,Right-arm offbreak,
+Mohammed Shami,54,53,9.0,5,2,101.88679245283019,6.0,16,1990-09-03,Right_Hand,Right-arm fast-medium,India
+Mohammed Siraj,34,35,3.0,2,1,97.14285714285714,11.333333333333334,6,,Right_hand,Right-arm fast,
+Mustafizur Rahman,1,3,1.0,0,0,33.33333333333333,1.0,1,1995-09-06,Left_Hand,Left-arm fast-medium,Bangladesh
+N Naik,8,16,1.0,1,0,50.0,8.0,1,,Right_hand,,
+N Pooran,177,107,6.0,11,14,165.42056074766356,29.5,6,,Left_Hand,,
+N Rana,1104,806,38.0,85,60,136.9727047146402,29.05263157894737,41,1993-12-27,Left_Hand,Right-arm offbreak,India
+N Saini,143,144,11.0,16,0,99.30555555555556,13.0,12,1988-10-28,Right_Hand,Right-arm fast,India
+ND Doshi,0,13,1.0,0,0,0.0,0.0,1,1978-10-06,Right_Hand,Slow left-arm orthodox,India
+NJ Maddinson,20,21,3.0,4,0,95.23809523809523,6.666666666666667,3,1991-12-21,Left_Hand,Slow left-arm orthodox,Australia
+NJ Rimmington,1,1,0.0,0,0,100.0,,1,1982-11-11,Right_Hand,Right-arm fast-medium,Australia
+NL McCullum,26,22,1.0,0,1,118.18181818181819,26.0,2,1980-09-01,Right_Hand,Right-arm offbreak,New Zealand
+NLTC Perera,424,306,22.0,23,26,138.56209150326796,19.272727272727273,30,1989-04-03,Left_Hand,Right-arm medium-fast,Sri Lanka
+NM Coulter-Nile,52,50,8.0,3,4,104.0,6.5,11,1987-10-11,Right_Hand,Right-arm fast,Australia
+NS Naik,23,31,2.0,1,0,74.19354838709677,11.5,2,1994-11-09,Right_Hand,,India
+NV Ojha,1555,1308,75.0,121,79,118.88379204892968,20.733333333333334,94,1983-07-20,Right_Hand,,India
+Niraj Patel,121,119,4.0,14,1,101.68067226890756,30.25,6,,Left_Hand,,
+OA Shah,506,388,15.0,34,23,130.41237113402062,33.733333333333334,22,1978-10-22,Right_Hand,Right-arm offbreak,England
+P Awana,5,14,2.0,0,0,35.714285714285715,2.5,5,1986-07-19,Right_Hand,Right-arm medium,India
+P Chopra,8,6,1.0,2,0,133.33333333333331,8.0,1,,Right_hand,,
+P Dogra,127,138,11.0,4,5,92.02898550724638,11.545454545454545,12,1984-11-19,Right_Hand,Legbreak,India
+P Krishna,1,7,1.0,0,0,14.285714285714285,1.0,2,,Right_hand,Right-arm fast,
+P Kumar,340,312,38.0,22,17,108.97435897435896,8.947368421052632,57,1986-10-02,Right_Hand,Right-arm medium,India
+P Negi,366,288,26.0,27,16,127.08333333333333,14.076923076923077,35,1993-01-06,Left_Hand,Slow left-arm orthodox,India
+P Parameswaran,1,2,0.0,0,0,50.0,,2,1985-05-30,Right_Hand,Left-arm medium,India
+P R Barman,20,24,1.0,2,0,83.33333333333334,20.0,1,,Right_hand,Legbreak,
+P Raj,0,1,0.0,0,0,0.0,,1,,Right_Hand,Left-arm medium,
+P Sahu,19,13,1.0,1,1,146.15384615384613,19.0,2,1985-08-21,Right_Hand,Legbreak googly,India
+P Shaw,616,423,25.0,73,19,145.62647754137117,24.64,25,,Right_hand,,
+PA Patel,2874,2352,126.0,366,49,122.1938775510204,22.80952380952381,136,1985-03-09,Left_Hand,,India
+PA Reddy,164,160,10.0,15,2,102.49999999999999,16.4,10,1991-02-11,Right_Hand,Legbreak,India
+PC Valthaty,505,414,22.0,61,20,121.98067632850243,22.954545454545453,23,1983-12-07,Right_Hand,Right-arm medium,India
+PD Collingwood,203,156,5.0,9,13,130.12820512820514,40.6,7,1976-05-26,Right_Hand,Right-arm medium,England
+PJ Cummins,77,55,6.0,5,4,140.0,12.833333333333334,9,1993-05-08,Right_Hand,Right-arm fast,Australia
+PJ Sangwan,25,39,7.0,1,0,64.1025641025641,3.5714285714285716,13,1990-11-05,Right_Hand,Left-arm medium,India
+PM Sarvesh Kumar,1,2,0.0,0,0,50.0,,1,1989-04-26,Right_Hand,Right-arm medium,India
+PP Chawla,587,522,49.0,54,18,112.45210727969348,11.979591836734693,75,1988-12-24,Left_Hand,Legbreak,India
+PP Ojha,16,44,12.0,0,0,36.36363636363637,1.3333333333333333,19,1986-09-05,Left_Hand,Slow left-arm orthodox,India
+PR Shah,92,90,8.0,9,2,102.22222222222221,11.5,9,1987-11-03,Right_Hand,,India
+PSP Handscomb,6,12,1.0,0,0,50.0,6.0,1,1991-04-26,Right_Hand,,Australia
+PV Tambe,18,38,2.0,1,0,47.368421052631575,9.0,6,1971-10-08,Right_Hand,Legbreak,India
+Pankaj Singh,7,12,2.0,0,0,58.333333333333336,3.5,5,1985-05-06,Right_Hand,Right-arm medium-fast,India
+Parvez Rasool,17,20,2.0,1,0,85.0,8.5,4,1989-02-13,Right_Hand,Right-arm offbreak,India
+Q de Kock,1489,1108,48.0,156,54,134.38628158844764,31.020833333333332,50,1992-12-17,Left_Hand,,South Africa
+R Ashwin,382,339,35.0,32,10,112.68436578171091,10.914285714285715,50,1986-09-17,Right_Hand,Right-arm offbreak,India
+R Bhatia,342,284,30.0,24,13,120.4225352112676,11.4,47,1979-10-22,Right_Hand,Right-arm medium-fast,India
+R Bhui,8,17,2.0,0,0,47.05882352941176,4.0,2,,Right_hand,,
+R Bishnoi,19,17,3.0,1,2,111.76470588235294,6.333333333333333,3,1987-10-08,Right_Hand,Right-arm medium-fast,India
+R Dhawan,153,135,7.0,13,4,113.33333333333333,21.857142857142858,16,1990-02-19,Right_Hand,Right-arm medium-fast,India
+R Dravid,2174,1878,77.0,269,28,115.76144834930777,28.233766233766232,82,1973-01-11,Right_Hand,Right-arm offbreak,India
+R McLaren,159,171,8.0,14,1,92.98245614035088,19.875,13,1983-02-09,Left_Hand,Right-arm medium-fast,South Africa
+R Ninan,3,5,1.0,0,0,60.0,3.0,1,1985-11-19,Right_Hand,Right-arm offbreak,India
+R Parag,169,126,5.0,17,5,134.12698412698413,33.8,5,,Right_hand,Legbreak,
+R Rampaul,51,49,5.0,3,2,104.08163265306123,10.2,7,1984-10-15,Left_Hand,Right-arm fast-medium,West Indies
+R Salam,5,4,0.0,0,0,125.0,,1,,Right_Hand,Right-arm Fast,
+R Sathish,270,230,17.0,22,6,117.3913043478261,15.882352941176471,24,1981-01-14,Right_Hand,Right-arm medium,India
+R Sharma,66,75,14.0,5,3,88.0,4.714285714285714,19,1987-04-30,Right_Hand,Right-arm offbreak,India
+R Shukla,19,23,1.0,2,0,82.6086956521739,19.0,4,1990-08-28,Right_Hand,Right-arm medium,India
+R Singh,73,65,6.0,5,2,112.3076923076923,12.166666666666666,7,,Right_hand,,
+R Tewatia,119,89,6.0,11,3,133.7078651685393,19.833333333333332,12,1993-05-20,Left_Hand,Legbreak,India
+R Vinay Kumar,311,274,28.0,21,9,113.5036496350365,11.107142857142858,42,1984-02-12,Right_Hand,Right-arm medium,India
+RA Jadeja,1951,1561,80.0,137,65,124.98398462524023,24.3875,125,1988-12-06,Left_Hand,Slow left-arm orthodox,India
+RA Tripathi,771,551,29.0,73,27,139.92740471869328,26.586206896551722,33,,Right_hand,Right-arm medium,
+RD Chahar,15,13,2.0,2,0,115.38461538461537,7.5,5,,Right_hand,Legbreak googly,
+RE Levi,83,73,6.0,10,4,113.69863013698631,13.833333333333334,6,1988-01-14,Right_Hand,Right-arm medium,South Africa
+RE van der Merwe,159,141,11.0,11,8,112.7659574468085,14.454545454545455,15,1984-12-31,Right_Hand,Slow left-arm orthodox,South Africa
+RG More,2,2,0.0,0,0,100.0,,1,1992-02-02,Right_Hand,Right-arm medium,India
+RG Sharma,4914,3731,155.0,431,194,131.70731707317074,31.703225806451613,182,1987-04-30,Right_Hand,Right-arm offbreak,India
+RJ Harris,117,111,12.0,6,3,105.40540540540539,9.75,21,1979-10-11,Right_Hand,Right-arm fast,Australia
+RJ Peterson,32,30,3.0,3,1,106.66666666666667,10.666666666666666,5,1979-08-04,Left_Hand,Slow left-arm orthodox,South Africa
+RJ Quiney,103,102,7.0,12,3,100.98039215686273,14.714285714285714,7,1982-08-20,Left_Hand,Right-arm medium,Australia
+RN ten Doeschate,326,235,14.0,26,15,138.72340425531914,23.285714285714285,21,1980-06-30,Right_Hand,Right-arm medium-fast,Netherlands
+RP Singh,52,76,15.0,2,1,68.42105263157895,3.466666666666667,28,1985-12-06,Right_Hand,Left-arm fast-medium,India
+RR Bhatkal,0,2,1.0,0,0,0.0,0.0,1,1985-09-01,Right_Hand,Right-arm medium,India
+RR Pant,1792,1068,48.0,154,94,167.79026217228466,37.333333333333336,54,1997-10-04,Left_Hand,,India
+RR Powar,67,64,3.0,6,1,104.6875,22.333333333333332,9,1978-05-20,Right_Hand,Right-arm offbreak,India
+RR Raje,20,18,1.0,1,1,111.11111111111111,20.0,5,1986-09-03,Right_Hand,Right-arm fast-medium,India
+RR Rossouw,53,51,5.0,3,3,103.921568627451,10.6,5,1989-10-09,Left_Hand,Right-arm offbreak,South Africa
+RR Sarwan,73,75,4.0,6,1,97.33333333333334,18.25,4,1980-06-23,Right_Hand,Legbreak,West Indies
+RS Bopara,531,453,18.0,39,16,117.21854304635761,29.5,22,1985-05-04,Right_Hand,Right-arm medium,England
+RS Gavaskar,2,8,1.0,0,0,25.0,2.0,1,1976-02-20,Left_Hand,Slow left-arm orthodox,India
+RS Sodhi,4,2,0.0,1,0,200.0,,1,1980-10-18,Right_Hand,Right-arm medium,India
+RT Ponting,91,128,9.0,5,2,71.09375,10.11111111111111,9,1974-12-19,Right_Hand,Right-arm medium,Australia
+RV Gomez,50,51,5.0,5,1,98.0392156862745,10.0,9,1985-10-16,Right_Hand,Right-arm medium,India
+RV Uthappa,4446,3368,153.0,436,156,132.00712589073632,29.058823529411764,170,1985-11-11,Right_Hand,Right-arm medium,India
+Rashid Khan,109,63,12.0,5,9,173.015873015873,9.083333333333334,17,,Right_hand,Legbreak googly,
+S Anirudha,136,112,8.0,9,7,121.42857142857142,17.0,12,1987-04-14,Right_Hand,,India
+S Aravind,59,57,4.0,7,0,103.50877192982458,14.75,10,1984-04-08,Left_Hand,Left-arm medium-fast,India
+S Badree,13,23,5.0,0,0,56.52173913043478,2.6,5,1981-03-09,Right_Hand,Legbreak,West Indies
+S Badrinath,1441,1208,47.0,154,28,119.28807947019868,30.659574468085108,65,1980-08-30,Right_Hand,Right-arm offbreak,India
+S Chanderpaul,25,31,3.0,4,0,80.64516129032258,8.333333333333334,3,1974-08-16,Left_Hand,Legbreak,West Indies
+S Curran,95,55,4.0,13,3,172.72727272727272,23.75,8,,Left_Hand,Left-arm medium-fast,
+S Dhawan,4632,3659,137.0,526,96,126.59196501776442,33.81021897810219,158,1985-12-05,Left_Hand,Right-arm offbreak,India
+S Dube,40,33,3.0,1,3,121.21212121212122,13.333333333333334,4,,Left_Hand,Right-arm fast-medium,
+S Gill,517,376,15.0,45,15,137.5,34.46666666666667,23,,Right_hand,,
+S Gopal,131,118,9.0,14,1,111.01694915254237,14.555555555555555,14,1993-09-04,Right_Hand,Legbreak,India
+S Hetmyer,93,73,5.0,4,7,127.3972602739726,18.6,5,,Left_Hand,,
+S Kaul,12,28,4.0,0,0,42.857142857142854,3.0,7,1990-05-19,Right_Hand,Right-arm medium,India
+S Kaushik,0,1,1.0,0,0,0.0,0.0,1,1995-09-07,Right_Hand,Slow left-arm chinaman,India
+S Ladda,0,9,1.0,0,0,0.0,0.0,2,1986-07-10,Right_Hand,Legbreak,India
+S Lamichhane,0,1,1.0,0,0,0.0,0.0,1,,Right_hand,Legbreak googly,
+S Mavi,13,15,3.0,1,0,86.66666666666667,4.333333333333333,3,,Right_hand,Right-arm fast-medium,
+S Nadeem,32,78,12.0,1,0,41.02564102564102,2.6666666666666665,17,1989-08-12,Right_Hand,Slow left-arm orthodox,India
+S Narwal,37,27,3.0,6,0,137.03703703703704,12.333333333333334,4,1982-04-16,Left_Hand,Right-arm medium,India
+S Rana,91,79,4.0,9,1,115.18987341772151,22.75,8,1984-09-18,Right_Hand,Right-arm medium-fast,India
+S Randiv,2,4,1.0,0,0,50.0,2.0,1,1985-01-30,Right_Hand,Right-arm offbreak,Sri Lanka
+S Rutherford,82,54,5.0,4,7,151.85185185185185,16.4,7,,Left_Hand,Right-arm fast-medium,
+S Sharma,8,3,0.0,1,0,266.66666666666663,,2,,Right_Hand,Right-arm fast-medium,
+S Singh,17,17,1.0,1,1,100.0,17.0,1,,Right_hand,,
+S Sohal,368,289,20.0,34,18,127.33564013840831,18.4,20,1987-11-10,Right_Hand,Legbreak,India
+S Sreesanth,34,55,4.0,6,0,61.81818181818181,8.5,12,1983-02-06,Right_Hand,Right-arm fast-medium,India
+S Sriram,31,36,2.0,3,0,86.11111111111111,15.5,2,1976-02-21,Left_Hand,Slow left-arm orthodox,India
+S Tyagi,3,4,1.0,0,0,75.0,3.0,1,1987-09-17,Right_Hand,Right-arm medium,India
+S Vidyut,145,109,8.0,21,3,133.0275229357798,18.125,8,1981-12-03,Left_Hand,Slow left-arm orthodox,India
+SA Abbott,15,13,2.0,1,1,115.38461538461537,7.5,2,1992-02-29,Right_Hand,Right-arm fast-medium,New Zealand
+SA Asnodkar,423,337,20.0,56,10,125.51928783382789,21.15,19,1984-03-29,Right_Hand,Right-arm offbreak,India
+SA Yadav,608,461,29.0,54,21,131.88720173535793,20.96551724137931,42,1990-09-14,Right_Hand,Right-arm offbreak,India
+SB Bangar,49,58,7.0,1,3,84.48275862068965,7.0,7,1972-10-11,Right_Hand,Right-arm medium-fast,India
+SB Jakati,28,29,1.0,3,0,96.55172413793103,28.0,5,1980-11-27,Left_Hand,Slow left-arm orthodox,India
+SB Joshi,6,14,2.0,0,0,42.857142857142854,3.0,2,1970-06-06,Left_Hand,Slow left-arm orthodox,India
+SB Styris,131,132,7.0,10,3,99.24242424242425,18.714285714285715,10,1975-07-10,Right_Hand,Right-arm medium,New Zealand
+SB Wagh,2,3,2.0,0,0,66.66666666666666,1.0,2,1988-10-09,Left_Hand,Left-arm medium-fast,India
+SC Ganguly,1349,1257,53.0,137,42,107.31901352426412,25.452830188679247,56,1972-07-08,Left_Hand,Right-arm medium,India
+SD Chitnis,99,88,7.0,10,2,112.5,14.142857142857142,8,1987-05-06,Right_Hand,Right-arm offbreak,India
+SD Lad,15,13,1.0,1,1,115.38461538461537,15.0,1,,Right_hand,,
+SE Bond,1,2,1.0,0,0,50.0,1.0,1,1975-06-07,Right_Hand,Right-arm fast,New Zealand
+SE Marsh,2489,1866,63.0,269,78,133.38692390139335,39.507936507936506,69,1983-07-09,Left_Hand,Slow left-arm orthodox,Australia
+SJ Srivastava,5,5,1.0,0,0,100.0,5.0,4,1981-09-22,Right_Hand,Left-arm fast-medium,India
+SK Raina,5415,3898,162.0,495,195,138.91739353514623,33.425925925925924,189,1986-11-27,Left_Hand,Right-arm offbreak,India
+SK Trivedi,42,58,7.0,3,1,72.41379310344827,6.0,14,1982-09-04,Right_Hand,Right-arm medium,India
+SK Warne,198,213,20.0,14,6,92.95774647887323,9.9,27,1969-09-13,Right_Hand,Legbreak googly,Australia
+SL Malinga,88,99,16.0,6,5,88.88888888888889,5.5,20,1983-08-28,Right_Hand,Right-arm fast,Sri Lanka
+SM Harwood,9,13,0.0,0,0,69.23076923076923,,2,1974-03-01,Right_Hand,Right-arm fast-medium,Australia
+SM Katich,241,185,10.0,26,8,130.27027027027026,24.1,11,1975-08-21,Left_Hand,Slow left-arm chinaman,Australia
+SM Pollock,147,111,8.0,12,8,132.43243243243242,18.375,8,1973-07-16,Right_Hand,Right-arm fast-medium,South Africa
+SMSM Senanayake,10,16,1.0,0,0,62.5,10.0,4,1985-02-09,Right_Hand,Right-arm offbreak,Sri Lanka
+SN Khan,416,283,15.0,44,11,146.9964664310954,27.733333333333334,22,1997-10-27,Right_Hand,Legbreak,India
+SN Thakur,36,21,5.0,5,1,171.42857142857142,7.2,7,1991-10-16,Right_Hand,Right-arm medium,India
+SP Fleming,196,162,9.0,27,3,120.98765432098766,21.77777777777778,10,1973-04-01,Left_Hand,,New Zealand
+SP Goswami,301,289,18.0,33,3,104.1522491349481,16.72222222222222,19,1989-05-18,Left_Hand,,India
+SP Jackson,38,31,2.0,5,0,122.58064516129032,19.0,3,,Right_hand,,
+SP Narine,803,457,44.0,94,44,175.71115973741794,18.25,54,1988-05-26,Left_Hand,Right-arm offbreak,West Indies
+SPD Smith,2047,1561,54.0,181,49,131.13388853299168,37.907407407407405,72,1989-06-02,Right_Hand,Legbreak googly,India
+SR Tendulkar,2334,1941,69.0,296,29,120.24729520865533,33.82608695652174,78,1973-04-24,Right_Hand,Right-arm offbreak,India
+SR Watson,3614,2556,115.0,344,177,141.3928012519562,31.42608695652174,130,1981-06-17,Right_Hand,Right-arm fast-medium,Australia
+SS Iyer,1714,1321,55.0,150,67,129.75018925056776,31.163636363636364,61,1994-12-06,Right_Hand,Legbreak googly,India
+SS Shaikh,6,7,1.0,1,0,85.71428571428571,6.0,1,1987-01-18,Right_Hand,Right-arm medium,India
+SS Tiwary,1276,1058,45.0,93,45,120.60491493383742,28.355555555555554,64,1989-12-30,Left_Hand,,India
+ST Jayasuriya,768,529,28.0,84,39,145.179584120983,27.428571428571427,30,1969-06-30,Left_Hand,Slow left-arm orthodox,Sri Lanka
+STR Binny,882,682,46.0,66,35,129.32551319648093,19.17391304347826,66,1984-06-03,Right_Hand,Right-arm medium,India
+SV Samson,2235,1692,80.0,171,89,132.0921985815603,27.9375,88,1994-11-11,Right_Hand,,India
+SW Billings,338,248,19.0,31,10,136.29032258064515,17.789473684210527,19,1991-06-15,Right_Hand,,England
+SW Tait,23,26,3.0,1,1,88.46153846153845,7.666666666666667,5,1983-02-22,Right_Hand,Right-arm fast,Australia
+Sachin Baby,137,99,8.0,11,5,138.3838383838384,17.125,10,1988-12-18,Left_Hand,Right-arm offbreak,India
+Salman Butt,193,160,7.0,30,2,120.625,27.571428571428573,7,1984-10-07,Left_Hand,Right-arm offbreak,Pakistan
+Sandeep Sharma,26,38,3.0,1,0,68.42105263157895,8.666666666666666,14,1993-05-18,Right_Hand,Right-arm medium,India
+Shahid Afridi,81,46,8.0,7,6,176.08695652173913,10.125,9,1980-03-01,Right_Hand,Legbreak googly,Pakistan
+Shakib Al Hasan,759,587,36.0,69,20,129.3015332197615,21.083333333333332,46,1987-03-24,Left_Hand,Slow left-arm orthodox,Bangladesh
+Shivam Sharma,5,3,1.0,1,0,166.66666666666669,5.0,2,1993-09-09,Right_Hand,Right-arm offbreak,India
+Shoaib Ahmed,1,6,2.0,0,0,16.666666666666664,0.5,3,1990-08-17,Right_Hand,Right-arm fast-medium,Pakistan
+Shoaib Akhtar,2,7,1.0,0,0,28.57142857142857,2.0,1,1975-08-13,Right_Hand,Right-arm fast,Pakistan
+Shoaib Malik,52,46,4.0,5,0,113.04347826086956,13.0,5,1982-02-01,Right_Hand,Right-arm offbreak,Pakistan
+Sohail Tanvir,36,28,3.0,3,1,128.57142857142858,12.0,5,1984-12-12,Left_Hand,Left-arm medium-fast,Pakistan
+Sunny Gupta,0,1,1.0,0,0,0.0,0.0,1,1988-09-27,Right_Hand,Right-arm offbreak,India
+Sunny Singh,43,31,4.0,6,1,138.70967741935485,10.75,5,1986-12-18,Right_Hand,Right-arm medium-fast,India
+Swapnil Singh,12,20,3.0,0,0,60.0,4.0,3,1991-01-22,Right_Hand,Slow left-arm orthodox,India
+T Curran,24,28,3.0,3,0,85.71428571428571,8.0,4,,Right_hand,Right-arm fast-medium,
+T Henderson,11,15,2.0,0,1,73.33333333333333,5.5,2,1974-08-01,Right_Hand,Right-arm fast-medium,South Africa
+T Kohli,11,19,3.0,0,1,57.89473684210527,3.6666666666666665,3,1988-12-17,Right_Hand,Right-arm medium,India
+T Taibu,31,26,3.0,3,0,119.23076923076923,10.333333333333334,3,1983-05-14,Right_Hand,Right-arm medium,Zimbabwea
+T Thushara,12,18,2.0,0,0,66.66666666666666,6.0,4,1981-03-01,Left_Hand,Left-arm fast-medium,Sri Lanka
+TA Boult,12,14,2.0,0,1,85.71428571428571,6.0,4,1989-07-22,Right_Hand,Left-arm fast-medium,New Zealand
+TD Paine,10,26,2.0,0,0,38.46153846153847,5.0,2,1984-12-08,Right_Hand,Right-arm medium,Australia
+TG Southee,115,89,8.0,8,4,129.21348314606743,14.375,13,1988-12-11,Right_Hand,Right-arm medium-fast,New Zealand
+TL Suman,676,573,32.0,55,26,117.97556719022688,21.125,39,1983-12-15,Right_Hand,Right-arm offbreak,India
+TM Dilshan,1153,1001,43.0,140,24,115.18481518481518,26.813953488372093,50,1976-10-14,Right_Hand,Right-arm offbreak,Sri Lanka
+TM Head,205,147,7.0,12,8,139.45578231292518,29.285714285714285,10,1993-12-29,Left_Hand,Right-arm offbreak,Australia
+TM Srivastava,8,11,1.0,0,0,72.72727272727273,8.0,3,1989-11-07,Left_Hand,Right-arm medium,India
+TR Birt,75,57,5.0,9,2,131.57894736842107,15.0,5,1981-12-09,Left_Hand,Right-arm medium,Australia
+TS Mills,8,11,3.0,0,1,72.72727272727273,2.6666666666666665,3,,Right_hand,Left-arm fast,
+U Kaul,0,1,0.0,0,0,0.0,,1,1987-12-02,Left_Hand,,India
+UA Birla,7,14,1.0,1,0,50.0,7.0,1,1989-11-17,Right_Hand,Right-arm medium,India
+UBT Chand,300,299,20.0,32,9,100.33444816053512,15.0,20,1993-03-26,Right_Hand,Right-arm offbreak,India
+UT Khawaja,127,99,6.0,14,3,128.2828282828283,21.166666666666668,6,1986-12-18,Left_Hand,Right-arm medium,Australia
+UT Yadav,127,126,13.0,11,4,100.79365079365078,9.76923076923077,33,1987-10-25,Right_Hand,Right-arm fast-medium,India
+Umar Gul,39,19,3.0,1,5,205.26315789473685,13.0,4,1984-04-14,Right_Hand,Right-arm fast-medium,Pakistan
+V Kohli,5434,4100,143.0,482,191,132.53658536585365,38.0,169,1988-11-05,Right_Hand,Right-arm medium,India
+V Pratap Singh,0,1,1.0,0,0,0.0,0.0,1,1992-05-03,Right_Hand,Right-arm medium,India
+V Sehwag,2728,1740,99.0,334,106,156.7816091954023,27.555555555555557,104,1978-10-20,Right_Hand,Right-arm offbreak,India
+V Shankar,574,415,18.0,34,24,138.3132530120482,31.88888888888889,27,1991-01-26,Right_Hand,Right-arm medium,India
+VH Zol,29,26,2.0,3,1,111.53846153846155,14.5,2,1994-11-23,Left_Hand,Right-arm offbreak,India
+VR Aaron,49,61,4.0,2,2,80.32786885245902,12.25,10,1989-10-29,Right_Hand,Right-arm fast,India
+VRV Singh,4,3,2.0,1,0,133.33333333333331,2.0,2,1984-09-17,Right_Hand,Right-arm medium-fast,India
+VS Malik,7,7,1.0,1,0,100.0,7.0,2,1983-05-09,Right_Hand,Right-arm medium,India
+VS Yeligati,2,2,1.0,0,0,100.0,2.0,1,1985-04-23,Right_Hand,Right-arm offbreak,India
+VVS Laxman,282,266,19.0,33,5,106.01503759398496,14.842105263157896,20,1974-11-01,Right_Hand,Right-arm offbreak,India
+VY Mahesh,15,27,2.0,0,0,55.55555555555556,7.5,5,1987-12-21,Right_Hand,Right-arm medium-fast,India
+Vishnu Vinod,19,26,3.0,1,1,73.07692307692307,6.333333333333333,3,,Right_hand,,
+W Jaffer,130,121,8.0,14,3,107.43801652892562,16.25,8,1978-02-16,Right_Hand,Right-arm offbreak,India
+WA Mota,56,75,6.0,2,0,74.66666666666667,9.333333333333334,8,1981-09-20,Right_Hand,Right-arm medium,India
+WD Parnell,63,75,9.0,4,1,84.0,7.0,12,1989-07-30,Left_Hand,Left-arm medium-fast,South Africa
+WP Saha,1780,1345,74.0,161,59,132.34200743494424,24.054054054054053,93,1984-10-24,Right_Hand,,India
+WPUJC Vaas,81,72,8.0,2,3,112.5,10.125,11,1974-01-27,Left_Hand,Left-arm fast-medium,Sri Lanka
+Washington Sundar,79,53,6.0,5,4,149.0566037735849,13.166666666666666,12,,Left_Hand,Right-arm offbreak,
+X Thalaivan Sargunam,10,17,1.0,0,0,58.82352941176471,10.0,1,1985-05-15,Right_Hand,Right-arm offbreak,India
+Y Gnaneswara Rao,19,17,1.0,3,0,111.76470588235294,19.0,1,1984-08-25,Right_Hand,Right-arm medium,India
+Y Nagar,285,259,14.0,20,9,110.03861003861005,20.357142857142858,20,1990-01-06,Right_Hand,Right-arm offbreak,India
+Y Venugopal Rao,985,832,44.0,77,37,118.38942307692308,22.386363636363637,52,1982-02-26,Right_Hand,Right-arm offbreak,India
+YA Abdulla,0,1,0.0,0,0,0.0,,1,1983-01-17,Left_Hand,Left-arm fast-medium,India
+YK Pathan,3241,2233,110.0,264,161,145.141065830721,29.463636363636365,153,1982-11-17,Right_Hand,Right-arm offbreak,India
+YS Chahal,22,48,5.0,0,0,45.83333333333333,4.4,12,1990-07-23,Right_Hand,Legbreak googly,India
+YV Takawale,192,177,8.0,26,3,108.47457627118644,24.0,10,1984-11-05,Right_Hand,,India
+Yashpal Singh,47,65,4.0,5,0,72.3076923076923,11.75,4,1981-11-27,Right_Hand,Right-arm medium,India
+Younis Khan,3,7,1.0,0,0,42.857142857142854,3.0,1,1977-11-29,Right_Hand,Right-arm medium,Pakistan
+Yuvraj Singh,2765,2115,111.0,218,149,130.73286052009456,24.90990990990991,126,1981-12-12,Left_Hand,Slow left-arm orthodox,India
+Z Khan,117,140,14.0,11,2,83.57142857142857,8.357142857142858,27,1978-10-07,Right_Hand,Left-arm fast-medium,India
